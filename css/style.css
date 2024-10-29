@@ -89,6 +89,7 @@ h3{
 }
 
 .tag{
+    display: inline-block;
     color: #ffffff;
     font-size: x-small;
     border: 1px solid;
