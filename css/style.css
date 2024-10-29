@@ -53,3 +53,70 @@ main{
 .btn-white{
     color: #C4CBD0;
 }
+/*--- list ---*/
+ul{
+    list-style: none;
+    padding: 10px;
+}
+li{
+    padding: 9px;
+}
+.ul-1{
+    padding: 20px;
+    margin-left: 35px;    
+}
+h3{
+    font-size: 20px;
+    font-weight: bold;
+}
+.circle{
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    font-size:x-small;
+    border: 1px solid;
+    border-radius: 100%;
+    line-height: 15px;
+    text-align: center;
+}
+
+.circle-check{
+    color: #2CC6AB;
+}
+
+.circle-cross{
+    color: #ff0000;
+}
+
+.tag{
+    color: #ffffff;
+    font-size: x-small;
+    border: 1px solid;
+    border-radius: 15%;
+    padding: 4px 10px;
+}
+
+.tag-blue{
+    background-color: #14AAF5;
+    border-color: #14AAF5;
+}
+.tag-purple{
+    background-color:#ab5de6;
+    border-color: #ab5de6;
+}
+.tag-green{
+    background-color: #2CC6AB;
+    border-color: #2CC6AB;
+}
+.tag-orange{
+    background-color:#FF9B00 ;
+    border-color: #FF9B00;
+}
+.tag-fuxia{
+    background-color:#EC4A9D ;
+    border-color: #EC4A9D;
+}
+.tag-lime{
+    background-color: #A3D116;
+    border-color:#A3D116 ;
+}
