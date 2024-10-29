@@ -50,6 +50,7 @@ main{
     border-color: #14AAF5;
     margin-left: 60px;
 }
+
 .btn-white{
     color: #C4CBD0;
 }
@@ -91,9 +92,9 @@ h3{
 .tag{
     display: inline-block;
     color: #ffffff;
-    font-size: x-small;
+    font-size: 12px;
     border: 1px solid;
-    border-radius: 15%;
+    border-radius: 50px;
     padding: 4px 10px;
 }
 
