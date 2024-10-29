@@ -22,4 +22,34 @@ header{
     background-color: #ffffff;
     padding: 15px 20px;
     font-weight: 700;
+    margin-bottom: 40px;
+}
+
+main{
+    background-color:#ffffff;
+    width: 800px;
+    height: 600px;
+    margin: auto;
+    border-radius: 5%;
+}
+.intro{
+    height: 65px;
+    border-bottom:3px solid #F6F8F9;
+}
+.btn{
+    background: transparent;
+    padding: 9px 13px ; 
+    border-radius:8%;
+    margin-top: 18px;
+    border: 2px solid;
+}
+
+.btn-blue{
+    color: #ffffff;
+    background-color:#14AAF5;
+    border-color: #14AAF5;
+    margin-left: 60px;
+}
+.btn-white{
+    color: #C4CBD0;
 }
